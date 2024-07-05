@@ -8,8 +8,8 @@ on:
 
 env:
   REGISTRY: registry.cn-qingdao.aliyuncs.com
-  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
-  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  ALIYUN_REGISTRY_USER: "wltzzy@163.com"
+  ALIYUN_REGISTRY_PASSWORD: "ting+860303"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
 
 jobs:
