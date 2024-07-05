@@ -9,7 +9,7 @@ on:
 env:
   REGISTRY: registry.cn-qingdao.aliyuncs.com
   ALIYUN_REGISTRY_USER: "wltzzy@163.com"
-  ALIYUN_REGISTRY_PASSWORD: "ting+860303"
+  ALIYUN_REGISTRY_PASSWORD: "ting_860303"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
 
         if [ $MM_NOTIFY_URL ];then
           curl  -H 'Content-Type: application/json' \
-            -d "{\"msgtype\": \"text\",\"text\": {\"content\":\"同步成功1 $data \"}}" \
+            -d "{\"msgtype\": \"text\",\"text\": {\"content\":\"同步成功 $data \"}}" \
             $MM_NOTIFY_URL
         else
           echo 'MM_NOTIFY_URL not set'
