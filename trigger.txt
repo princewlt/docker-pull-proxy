@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.1 registry.cn-qingdao.aliyuncs.com/dream-wlt/dify-sandbox:20240705
+xprobe/xinference registry.cn-qingdao.aliyuncs.com/dream-wlt/temp:20240709
