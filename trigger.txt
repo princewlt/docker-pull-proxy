@@ -1,1 +1,1 @@
-xprobe/xinference registry.cn-qingdao.aliyuncs.com/dream-wlt/temp:20240710
+PaddlePaddle registry.cn-qingdao.aliyuncs.com/dream-wlt/paddlepaddle:20241120
