@@ -1,1 +1,1 @@
-PaddlePaddle registry.cn-qingdao.aliyuncs.com/dream-wlt/paddlepaddle:20241120
+ghcr.io/open-webui/open-webui:cuda registry.cn-qingdao.aliyuncs.com/dream-wlt/temp2:20250211
